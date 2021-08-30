@@ -1,3 +1,1 @@
-# 数据结构 陈越等
-中国大学MOOC上此网课学习记录
-标记1：master
+# DataStructure ChenYue
